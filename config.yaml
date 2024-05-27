@@ -1,8 +1,8 @@
 BASE_URL: 'https://www.bls.gov/cex/pumd/data/csv/'
-COLLECTION_QUARTER: '20231'
-SURVEY_SOURCE: 'diary'
-DATA_DIRECTORY: '/Users/barbieri/Desktop/Education/George Mason University/Dissertation/Proposals/data'
-DATASET_BASE_NAME: 'fmld'
+COLLECTION_QUARTER: '20232'
+SURVEY_SOURCE: 'intrvw'
+DATA_DIRECTORY: '/Users/barbieri/Desktop/Education/George Mason University/Dissertation/Proposals/edsl_ce_surveys/data'
+DATASET_BASE_NAME: 'fmli'
 DATASET_EXTENSION: '.csv'
 DATA_DICTIONARY: 'ce-pumd-interview-diary-dictionary.xlsx'
 DATASET_COLUMNS: 
@@ -17,12 +17,12 @@ DATASET_COLUMNS:
 - EDUCA2
 - FAM_SIZE
 - FAM_TYPE
-- FINCBEFX
+# - FINCBEFX
 - HH_CU_Q
 - HHID
 - HIGH_EDU
-- HRSPRWK1
-- HRSPRWK2
+# - HRSPRWK1
+# - HRSPRWK2
 - NEWID
 - NO_EARNR
 - PERSLT18
