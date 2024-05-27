@@ -1,0 +1,37 @@
+BASE_URL: 'https://www.bls.gov/cex/pumd/data/csv/'
+COLLECTION_QUARTER: '20231'
+SURVEY_SOURCE: 'diary'
+DATA_DIRECTORY: '/Users/barbieri/Desktop/Education/George Mason University/Dissertation/Proposals/data'
+DATASET_BASE_NAME: 'fmld'
+DATASET_EXTENSION: '.csv'
+DATA_DICTIONARY: 'ce-pumd-interview-diary-dictionary.xlsx'
+DATASET_COLUMNS: 
+- AGE_REF
+- AGE2
+- BLS_URBN
+- CHILDAGE
+- CUTENURE
+- DIVISION
+- EARNCOMP
+- EDUC_REF
+- EDUCA2
+- FAM_SIZE
+- FAM_TYPE
+- FINCBEFX
+- HH_CU_Q
+- HHID
+- HIGH_EDU
+- HRSPRWK1
+- HRSPRWK2
+- NEWID
+- NO_EARNR
+- PERSLT18
+- PERSOT64
+- PSU
+- REF_RACE
+- REFGEN
+- REGION
+- SEX_REF
+- SEX2
+- VEHQ
+- URBAN
